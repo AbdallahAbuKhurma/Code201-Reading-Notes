@@ -4,7 +4,7 @@
 
 | content      | Description      |
 | -----------  | -----------      |
-| Class01.md  |      |
+| Class01.md  | [Introductory HTML and JavaScript](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class01)     |
 | Class02.md  |      |
 | Class03.md  |      |
 | Class04.md  |      |

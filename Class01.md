@@ -14,7 +14,7 @@ How People Access the Web: s it is important to consider the different ways in w
  * **Screen readers:**
  Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
 
- ### How Websites Are Created?
+### How Websites Are Created?
 
  All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
 
@@ -106,7 +106,7 @@ The element acts like an inline equivalent of the div element. It is used to eit
 2. Contain a number of inline elements.
  The most common reason why people use the span elements is so that they can control the appearance of the content of these elements using CSS.
 
- ## Comments, Meta information and iframes:
+## Comments, Meta information and iframes:
 
  * **Iframes:** An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame. One common use of iframes (that you may have seen on various websites) is to embed a Google Map into a page. The content of the iframe can be any html page (either located on the same server or anywhere else on the web).
 
@@ -116,7 +116,7 @@ If you want to add a comment to your code that will not be visible in the user's
 
  * **Meta:** The Meta element lives inside the element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive.
 
- # **HTML5 Layout:**
+# **HTML5 Layout:**
   HTML5 is introducing a new set of elements that help define the structure of a page.
 
   There is two types of layout:
