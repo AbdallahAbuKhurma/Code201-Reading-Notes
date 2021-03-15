@@ -5,7 +5,7 @@
 | content      | Description      |
 | -----------  | -----------      |
 | Class01.md  | [Introductory HTML and JavaScript](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class01)     |
-| Class02.md  |      |
+| Class02.md  | [Basics of HTML, CSS & JS](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class02)     |
 | Class03.md  |      |
 | Class04.md  |      |
 | Class05.md  |      |
