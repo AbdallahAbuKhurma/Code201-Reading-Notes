@@ -1,12 +1,12 @@
 # Code201-Reading-Notes
 
-## Welcome to My Reading-Notes page, I'm Abdallah Abu Khurma and I'm a Software development student at LTUC. 
+## Welcome to My Reading-Notes page, I'm Abdallah Abu Khurma and I'm a Software development student at LTUC
 
 | content      | Description      |
 | -----------  | -----------      |
 | Class01.md  | [Introductory HTML and JavaScript](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class01)     |
 | Class02.md  | [Basics of HTML, CSS & JS](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class02)     |
-| Class03.md  |      |
+| Class03.md  |  [HTML Lists, Control Flow with JS, and the CSS Box](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class03)    |
 | Class04.md  |      |
 | Class05.md  |      |
 | Class06.md  |      |
