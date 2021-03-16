@@ -6,8 +6,8 @@
 | -----------  | -----------      |
 | Class01.md  | [Introductory HTML and JavaScript](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class01)     |
 | Class02.md  | [Basics of HTML, CSS & JS](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class02)     |
-| Class03.md  |  [HTML Lists, Control Flow with JS, and the CSS Box](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class03)    |
-| Class04.md  |      |
+| Class03.md  |  [HTML Lists, Control Flow with JS, and the CSS Box Model](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class03)    |
+| Class04.md  |  [HTML Links, JS Functions, and Intro to CSS Layout](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class04)    |
 | Class05.md  |      |
 | Class06.md  |      |
 | Class07.md  |      |
