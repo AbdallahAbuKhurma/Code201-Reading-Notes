@@ -10,7 +10,7 @@
 | Class04.md  |  [HTML Links, JS Functions, and Intro to CSS Layout](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class04)    |
 | Class05.md  | [Images, Color, Text](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class05)     |
 | Class06.md  | [Problem Domain, Objects, and the DOM](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class06)     |
-| Class07.md  |      |
+| Class07.md  |  [Object-Oriented Programming, HTML Tables](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class06)     |
 | Class08.md  |      |
 | Class09.md  |      |
 | Class10.md  |      |
