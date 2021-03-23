@@ -11,7 +11,7 @@
 | Class05.md  | [Images, Color, Text](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class05)     |
 | Class06.md  | [Problem Domain, Objects, and the DOM](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class06)     |
 | Class07.md  |  [Object-Oriented Programming, HTML Tables](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class07)     |
-| Class08.md  |      |
+| Class08.md  | [CSS Layout](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class08)     |
 | Class09.md  |      |
 | Class10.md  |      |
 | Class11.md  |      |
