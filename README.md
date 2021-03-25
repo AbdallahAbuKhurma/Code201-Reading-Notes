@@ -13,7 +13,7 @@
 | Class07.md  |  [Object-Oriented Programming, HTML Tables](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class07)     |
 | Class08.md  | [CSS Layout](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class08)     |
 | Class09.md  | [Forms and Events](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class09)     |
-| Class10.md  |      |
+| Class10.md  | [Debugging](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class10)     |
 | Class11.md  |      |
 | Class12.md  |      |
 | Class13.md  |      |
