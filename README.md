@@ -17,5 +17,5 @@
 | Class11.md  | [Audio, Video, Images](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class11)     |
 | Class12.md  | [Chart.js, Canvas](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class12)     |
 | Class13.md  | [Local Storage](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class13)     |
-| Class14.md  |      |
-| Class15.md  |      |
+| Class14a.md  | [class14a](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class14a)     |
+| Class14b.md  | [class14b](https://abdallahabukhurma.github.io/Code201-Reading-Notes/Class14b)     |
